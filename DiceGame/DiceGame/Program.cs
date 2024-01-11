@@ -1,0 +1,1 @@
+﻿Random dice = new Random();
