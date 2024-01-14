@@ -1,14 +1,22 @@
 ﻿int numberRolls = 0;
+
 int points = 0;
 int doubleBonus = 2;
 int tripleBonus = 6;
+
+string prize1 = "car";
+string prize2 = "laptop";
+string prize3 = "trip";
+string prize4 = "kitten";
 
 do
 {
     Console.Write("Number of rolls: ");
 } while (!Int32.TryParse(Console.ReadLine(), out numberRolls));
 
-int minimalScore = numberRolls * 5;
+int minScore1 = (numberRolls * 5) + 1;
+int minScore2 = (numberRolls * 3) + 1;
+int minScore3 = (numberRolls * 2) + 1;
 
 Random dice = new Random();
 int[] rolls = new int[numberRolls];
@@ -57,11 +65,19 @@ for (int i = 0; i < numberRolls; i++)
 
 Console.WriteLine($"Your score: {points}");
 
-if (points >= minimalScore)
+if (points >= minScore1)
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine($"You win a {prize1}!");
+}
+else if (points >= minScore2)
+{
+    Console.WriteLine($"You win a {prize2}!");
+}
+else if (points >= minScore3)
+{
+    Console.WriteLine($"You win a {prize3}!");
 }
 else
 {
-    Console.WriteLine("You lose!");
+    Console.WriteLine($"You win a {prize4}!");
 }

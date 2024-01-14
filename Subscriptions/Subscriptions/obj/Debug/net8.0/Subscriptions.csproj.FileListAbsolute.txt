@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\bin\Debug\net8.0\Subscriptions.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\bin\Debug\net8.0\Subscriptions.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\bin\Debug\net8.0\Subscriptions.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\bin\Debug\net8.0\Subscriptions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\bin\Debug\net8.0\Subscriptions.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\refint\Subscriptions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\Subscriptions.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Subscriptions\Subscriptions\obj\Debug\net8.0\ref\Subscriptions.dll
