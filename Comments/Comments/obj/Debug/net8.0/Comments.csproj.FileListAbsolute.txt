@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\bin\Debug\net8.0\Comments.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\bin\Debug\net8.0\Comments.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\bin\Debug\net8.0\Comments.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\bin\Debug\net8.0\Comments.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\refint\Comments.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Comments\Comments\obj\Debug\net8.0\ref\Comments.dll
