@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\bin\Debug\net8.0\Permissions.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\bin\Debug\net8.0\Permissions.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\bin\Debug\net8.0\Permissions.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\bin\Debug\net8.0\Permissions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\bin\Debug\net8.0\Permissions.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\refint\Permissions.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\Permissions.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Permissions\Permissions\obj\Debug\net8.0\ref\Permissions.dll

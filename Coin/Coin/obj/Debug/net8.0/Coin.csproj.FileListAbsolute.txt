@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\bin\Debug\net8.0\Coin.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\bin\Debug\net8.0\Coin.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\bin\Debug\net8.0\Coin.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\bin\Debug\net8.0\Coin.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\bin\Debug\net8.0\Coin.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\refint\Coin.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\Coin.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Coin\Coin\obj\Debug\net8.0\ref\Coin.dll
