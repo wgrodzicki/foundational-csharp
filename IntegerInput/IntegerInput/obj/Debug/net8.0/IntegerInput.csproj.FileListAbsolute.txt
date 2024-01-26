@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\bin\Debug\net8.0\IntegerInput.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\bin\Debug\net8.0\IntegerInput.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\bin\Debug\net8.0\IntegerInput.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\bin\Debug\net8.0\IntegerInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\bin\Debug\net8.0\IntegerInput.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\refint\IntegerInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\IntegerInput.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IntegerInput\IntegerInput\obj\Debug\net8.0\ref\IntegerInput.dll

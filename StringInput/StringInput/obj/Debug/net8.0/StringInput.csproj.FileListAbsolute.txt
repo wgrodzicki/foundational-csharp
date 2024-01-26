@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\bin\Debug\net8.0\StringInput.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\bin\Debug\net8.0\StringInput.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\bin\Debug\net8.0\StringInput.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\bin\Debug\net8.0\StringInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\bin\Debug\net8.0\StringInput.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\refint\StringInput.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\StringInput.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringInput\StringInput\obj\Debug\net8.0\ref\StringInput.dll

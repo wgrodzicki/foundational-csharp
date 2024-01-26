@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\bin\Debug\net8.0\ProcessString.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\bin\Debug\net8.0\ProcessString.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\bin\Debug\net8.0\ProcessString.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\bin\Debug\net8.0\ProcessString.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\bin\Debug\net8.0\ProcessString.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\refint\ProcessString.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ProcessString.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ProcessString\ProcessString\obj\Debug\net8.0\ref\ProcessString.dll
