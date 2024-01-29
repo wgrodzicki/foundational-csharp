@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\bin\Debug\net8.0\Sort.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\bin\Debug\net8.0\Sort.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\bin\Debug\net8.0\Sort.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\bin\Debug\net8.0\Sort.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\bin\Debug\net8.0\Sort.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\refint\Sort.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\Sort.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Sort\Sort\obj\Debug\net8.0\ref\Sort.dll
