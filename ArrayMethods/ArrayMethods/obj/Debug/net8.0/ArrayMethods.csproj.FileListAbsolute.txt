@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\bin\Debug\net8.0\ArrayMethods.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\bin\Debug\net8.0\ArrayMethods.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\bin\Debug\net8.0\ArrayMethods.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\bin\Debug\net8.0\ArrayMethods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\bin\Debug\net8.0\ArrayMethods.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\refint\ArrayMethods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ArrayMethods\ArrayMethods\obj\Debug\net8.0\ref\ArrayMethods.dll
