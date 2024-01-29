@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\bin\Debug\net8.0\Conversion.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\bin\Debug\net8.0\Conversion.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\bin\Debug\net8.0\Conversion.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\bin\Debug\net8.0\Conversion.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\bin\Debug\net8.0\Conversion.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\refint\Conversion.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\Conversion.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Conversion\Conversion\obj\Debug\net8.0\ref\Conversion.dll

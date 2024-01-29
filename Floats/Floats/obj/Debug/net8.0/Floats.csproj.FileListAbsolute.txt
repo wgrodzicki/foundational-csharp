@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\bin\Debug\net8.0\Floats.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\bin\Debug\net8.0\Floats.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\bin\Debug\net8.0\Floats.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\bin\Debug\net8.0\Floats.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\bin\Debug\net8.0\Floats.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\refint\Floats.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\Floats.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Floats\Floats\obj\Debug\net8.0\ref\Floats.dll

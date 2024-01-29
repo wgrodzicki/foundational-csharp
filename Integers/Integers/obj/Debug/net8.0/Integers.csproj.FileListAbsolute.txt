@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\bin\Debug\net8.0\Integers.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\bin\Debug\net8.0\Integers.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\bin\Debug\net8.0\Integers.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\bin\Debug\net8.0\Integers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\bin\Debug\net8.0\Integers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\refint\Integers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\Integers.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Integers\Integers\obj\Debug\net8.0\ref\Integers.dll

@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\bin\Debug\net8.0\Combining.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\bin\Debug\net8.0\Combining.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\bin\Debug\net8.0\Combining.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\bin\Debug\net8.0\Combining.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\bin\Debug\net8.0\Combining.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\refint\Combining.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\Combining.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Combining\Combining\obj\Debug\net8.0\ref\Combining.dll
