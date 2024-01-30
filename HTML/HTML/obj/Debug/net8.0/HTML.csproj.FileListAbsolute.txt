@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\bin\Debug\net8.0\HTML.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\bin\Debug\net8.0\HTML.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\bin\Debug\net8.0\HTML.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\bin\Debug\net8.0\HTML.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\bin\Debug\net8.0\HTML.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\refint\HTML.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\HTML.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\HTML\HTML\obj\Debug\net8.0\ref\HTML.dll

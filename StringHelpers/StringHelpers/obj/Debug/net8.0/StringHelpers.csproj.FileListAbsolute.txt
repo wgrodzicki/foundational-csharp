@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\bin\Debug\net8.0\StringHelpers.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\bin\Debug\net8.0\StringHelpers.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\bin\Debug\net8.0\StringHelpers.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\bin\Debug\net8.0\StringHelpers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\bin\Debug\net8.0\StringHelpers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\refint\StringHelpers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\StringHelpers.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\StringHelpers\StringHelpers\obj\Debug\net8.0\ref\StringHelpers.dll
