@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\bin\Debug\net8.0\Investment.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\bin\Debug\net8.0\Investment.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\bin\Debug\net8.0\Investment.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\bin\Debug\net8.0\Investment.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\bin\Debug\net8.0\Investment.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\refint\Investment.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\Investment.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Investment\Investment\obj\Debug\net8.0\ref\Investment.dll
