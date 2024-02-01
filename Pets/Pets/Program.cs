@@ -1,5 +1,6 @@
 ﻿using Pets.Challenge1;
 using Pets.Challenge2;
+using System.Globalization;
 
 namespace Pets
 {
@@ -7,6 +8,8 @@ namespace Pets
     {
         public static void Main(string[] args)
         {
+            CultureInfo.CurrentCulture = new CultureInfo("en-US");
+            
             // Solution1 solution1 = new Solution1();
             
             // if (!solution1.DisplayMenu())

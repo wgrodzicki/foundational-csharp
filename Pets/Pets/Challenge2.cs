@@ -5,6 +5,10 @@ namespace Pets.Challenge2
 {
     public class Solution2 : Solution1
     {
+        /// <summary>
+        /// Handles the main menu, including the search option
+        /// </summary>
+        /// <returns></returns>
         public override bool DisplayMenu()
         {
             Console.WriteLine("\nWelcome to the Contoso Pets!");
@@ -42,7 +46,6 @@ namespace Pets.Challenge2
                         Console.WriteLine($"\nChosen option: {input}");
                         Console.Write("Press Enter to continue...");
                         Console.ReadLine();
-                        Console.WriteLine();
                         PrintAllAnimals();
                         break;
                     case "add":
@@ -109,21 +112,22 @@ namespace Pets.Challenge2
         /// <param name="animal"></param>
         protected override void PrintAnimalData(Animal animal)
         {
-            Console.WriteLine($"Animal ID: {animal.id}");
-            Console.WriteLine($"Animal species: {animal.species}");
-            Console.WriteLine($"Animal age: {animal.age}");
-            Console.WriteLine($"Animal physical condition: {animal.physicalCondition}");
-            Console.WriteLine($"Animal personality: {animal.personality}");
-            Console.WriteLine($"Animal nickname: {animal.nickname}");
+            Console.WriteLine();
+            Console.WriteLine($"ID: {animal.id}");
+            Console.WriteLine($"Species: {animal.species}");
+            Console.WriteLine($"Age: {animal.age}");
+            Console.WriteLine($"Physical condition: {animal.physicalCondition}");
+            Console.WriteLine($"Personality: {animal.personality}");
+            Console.WriteLine($"Nickname: {animal.nickname}");
             
             if (!String.IsNullOrEmpty(animal.suggestedDonation))
             {
                 decimal donation = decimal.Parse(animal.suggestedDonation);
-                Console.WriteLine($"Suggested donation for the animal: {donation:C}");
+                Console.WriteLine($"Suggested donation: {donation:C2}");
             }
             else
             {
-                Console.WriteLine($"Suggested donation for the animal: {animal.suggestedDonation}");
+                Console.WriteLine($"Suggested donation: {animal.suggestedDonation}");
             }
         }
 
@@ -334,11 +338,11 @@ namespace Pets.Challenge2
                 Console.ReadLine();
 
                 // Edit suggested donation
-                Console.WriteLine($"\nCurrent suggested donation for the animal: {ourAnimals[i].suggestedDonation:C}");
+                Console.WriteLine($"\nCurrent suggested donation for the animal: {ourAnimals[i].suggestedDonation:C2}");
                 string newDonation = GetAnimalSuggestedDonation();
                 decimal donation = decimal.Parse(newDonation);
 
-                Console.WriteLine($"New suggested donation for the animal: {donation:C}");
+                Console.WriteLine($"New suggested donation for the animal: {donation:C2}");
                 Console.Write("Press Enter to continue...");
                 Console.ReadLine();
 
@@ -389,7 +393,7 @@ namespace Pets.Challenge2
         /// </summary>
         private void SearchAnimals()
         {
-            if(DisplayNoAnimalsWarning())
+            if (DisplayNoAnimalsWarning())
                 return;
 
             string species = GetAnimalSpecies();
@@ -398,38 +402,107 @@ namespace Pets.Challenge2
 
             do
             {
-                Console.Write("Characteristics of the animal to search for: ");
+                Console.Write("Enter desired characteristics of the animal (term1, term2, term3, etc.): ");
                 characteristicsInput = Console.ReadLine();
-            } while (String.IsNullOrEmpty(characteristicsInput)); 
+            } while (String.IsNullOrEmpty(characteristicsInput));
+            
+            string[] characteristicsInputSplit = characteristicsInput.Split(',');
+            List<string> characteristicsCurated = new List<string>();
 
-            characteristicsInput = characteristicsInput.Trim().ToLower();
-            int counter = 0;
+            // Get rid of any null/empty/whitespace only terms 
+            foreach (string term in characteristicsInputSplit)
+            {
+                if (!String.IsNullOrWhiteSpace(term))
+                {
+                    characteristicsCurated.Add(term.Trim().ToLower());
+                }
+            }
+
+            string[] terms = characteristicsCurated.ToArray();
+            Array.Sort(terms);
+
+            characteristicsInput = String.Join(",", terms);
+            
+            int animalCounter = 0;
+            List<Animal> matchingAnimals = new List<Animal>();
 
             foreach (Animal animal in ourAnimals)
             {
+                int termCounter = 0;
+
                 if (animal.species != species)
                 {
                     continue;
                 }
 
-                string animalCharacteristics = animal.physicalCondition + " " + animal.personality;
+                // Buil the characteristics string for search purposes
+                string animalCharacteristics = animal.physicalCondition.Trim().ToLower() + "\n" + animal.personality.Trim().ToLower();
 
-                if (animalCharacteristics.Contains(characteristicsInput))
+                foreach (string term in terms)
                 {
-                    if (counter == 0)
+                    PrintSearchAnimation(animal, species, term);
+
+                    if (animalCharacteristics.Contains(term))
                     {
-                        Console.WriteLine();
-                        Console.WriteLine($"Animals that match the following characteristics: {characteristicsInput}");
+                        Console.WriteLine($"{char.ToUpper(species[0])}{species.Substring(1)} {animal.id} is a match for term \"{term}\"");
+                        termCounter++;
+                        matchingAnimals.Add(animal);
                     }
-                    counter++;
+                }
+
+                if (termCounter > 0)
+                {
+                    animalCounter++;
                     Console.WriteLine();
                     PrintAnimalData(animal);
                 }
+
             }
 
-            if (counter == 0)
+            if (animalCounter == 0)
             {
-                Console.WriteLine($"No animals that match the following characteristics: {characteristicsInput}");
+                Console.WriteLine();
+                Console.WriteLine($"There are no {species}s that match the following characteristics: {characteristicsInput}");
+            }
+            else
+            {
+                Console.WriteLine();
+                Console.WriteLine($"Animals that match at least one of the following characteristics: {characteristicsInput}");
+                foreach (Animal matchingAnimal in matchingAnimals)
+                {
+                    PrintAnimalData(matchingAnimal);
+                }
+            }
+        }
+
+
+        /// <summary>
+        /// Handles "animation" effect when searching
+        /// </summary>
+        /// <param name="animal"></param>
+        /// <param name="species"></param>
+        /// <param name="term"></param>
+        private void PrintSearchAnimation(Animal animal, string species, string term)
+        {
+            const int dots = 3;
+            char[] animationIcons = { '2', '1', '0'};
+            int waitTime = 150;
+
+            Console.Write($"\nSearching {species} {animal.id} for term \"{term}\"... ");
+
+            // Print icons
+            for (int i = 0; i < animationIcons.Length; i++)
+            {
+                Console.Write(animationIcons[i]);
+
+                // Print dots
+                for (int j = 0; j < dots; j++)
+                {
+                    Console.Write(".");
+                    Thread.Sleep(waitTime);
+                }
+
+                Thread.Sleep(waitTime);
             }
         }
     }

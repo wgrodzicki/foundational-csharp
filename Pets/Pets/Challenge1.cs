@@ -106,7 +106,7 @@ namespace Pets.Challenge1
         /// </summary>
         protected void PrintAllAnimals()
         {
-            if(DisplayNoAnimalsWarning())
+            if (DisplayNoAnimalsWarning())
                 return;
 
             foreach (Animal animal in ourAnimals)
