@@ -111,6 +111,7 @@ namespace Pets.Challenge1
 
             foreach (Animal animal in ourAnimals)
             {
+                Console.WriteLine("Displaying animal data...");
                 PrintAnimalData(animal);
             }
         }
@@ -148,6 +149,11 @@ namespace Pets.Challenge1
                     break;
                 }
 
+                if (animalCountInputValid && animalCount == 0)
+                {
+                    Console.WriteLine();
+                }
+
             } while (!animalCountInputValid);
 
             for (int i = 0; i < animalCount; i++)
@@ -155,7 +161,7 @@ namespace Pets.Challenge1
                 Console.WriteLine($"\nAnimal {i + 1}");
                 AddAnimalData();
             }
-
+            
             PrintAllAnimals();
         }
 
@@ -165,7 +171,7 @@ namespace Pets.Challenge1
         /// </summary>
         protected void PerformVeterinaryExamination()
         {
-            if(DisplayNoAnimalsWarning())
+            if (DisplayNoAnimalsWarning())
                 return;
 
             Console.WriteLine("Performing veterinary examination...");
@@ -302,7 +308,7 @@ namespace Pets.Challenge1
         /// </summary>
         protected void DisplaySelectedAnimals(string species)
         {
-            if(DisplayNoAnimalsWarning())
+            if (DisplayNoAnimalsWarning())
                 return;
 
             Console.WriteLine($"Displaying selected {species}s...");
@@ -318,7 +324,7 @@ namespace Pets.Challenge1
         /// </summary>
         protected void RemoveAnimals()
         {
-            if(DisplayNoAnimalsWarning())
+            if (DisplayNoAnimalsWarning())
                 return;
 
             Console.WriteLine("Removing animal data...");
@@ -573,14 +579,13 @@ namespace Pets.Challenge1
                     continue;
                 }
 
-                Console.WriteLine();
                 PrintAnimalData(animal);
                 counter++;
             }
 
             if (counter <= 0)
             {
-                Console.WriteLine("No animals that match the given condition.");
+                Console.WriteLine("\nNo animals that match the given condition.");
             }
         }
 

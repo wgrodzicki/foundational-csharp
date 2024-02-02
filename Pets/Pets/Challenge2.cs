@@ -1,4 +1,5 @@
 using System.Diagnostics.Metrics;
+using System.Globalization;
 using Pets.Challenge1;
 
 namespace Pets.Challenge2
@@ -46,6 +47,7 @@ namespace Pets.Challenge2
                         Console.WriteLine($"\nChosen option: {input}");
                         Console.Write("Press Enter to continue...");
                         Console.ReadLine();
+                        Console.WriteLine();
                         PrintAllAnimals();
                         break;
                     case "add":
@@ -94,6 +96,7 @@ namespace Pets.Challenge2
                         Console.WriteLine($"\nChosen option: {input}");
                         Console.Write("Press Enter to continue...");
                         Console.ReadLine();
+                        Console.WriteLine();
                         RemoveAnimals();
                         break;
                     case "exit":
@@ -424,18 +427,20 @@ namespace Pets.Challenge2
             characteristicsInput = String.Join(",", terms);
             
             int animalCounter = 0;
+            int termCounter = 0;
+
             List<Animal> matchingAnimals = new List<Animal>();
 
             foreach (Animal animal in ourAnimals)
-            {
-                int termCounter = 0;
+            {   
+                termCounter = 0;
 
                 if (animal.species != species)
                 {
                     continue;
                 }
 
-                // Buil the characteristics string for search purposes
+                // Build the characteristics string for search purposes
                 string animalCharacteristics = animal.physicalCondition.Trim().ToLower() + "\n" + animal.personality.Trim().ToLower();
 
                 foreach (string term in terms)
@@ -444,19 +449,18 @@ namespace Pets.Challenge2
 
                     if (animalCharacteristics.Contains(term))
                     {
-                        Console.WriteLine($"{char.ToUpper(species[0])}{species.Substring(1)} {animal.id} is a match for term \"{term}\"");
+                        Console.Write($"\n{char.ToUpper(species[0])}{species.Substring(1)} {animal.id} is a match for term \"{term}\"");
                         termCounter++;
-                        matchingAnimals.Add(animal);
                     }
                 }
 
                 if (termCounter > 0)
                 {
+                    matchingAnimals.Add(animal);
                     animalCounter++;
                     Console.WriteLine();
                     PrintAnimalData(animal);
                 }
-
             }
 
             if (animalCounter == 0)
@@ -466,6 +470,10 @@ namespace Pets.Challenge2
             }
             else
             {
+                if (termCounter == 0)
+                {
+                    Console.WriteLine();
+                }
                 Console.WriteLine();
                 Console.WriteLine($"Animals that match at least one of the following characteristics: {characteristicsInput}");
                 foreach (Animal matchingAnimal in matchingAnimals)
@@ -484,26 +492,28 @@ namespace Pets.Challenge2
         /// <param name="term"></param>
         private void PrintSearchAnimation(Animal animal, string species, string term)
         {
-            const int dots = 3;
-            char[] animationIcons = { '2', '1', '0'};
-            int waitTime = 150;
+            string[] animationNumbers = { "3", "2", "1"};
+            string[] animationIcons = { " |", " /", "--", " \\" };
+            int waitTime = 300;
 
-            Console.Write($"\nSearching {species} {animal.id} for term \"{term}\"... ");
+            string searchInfo = $"Searching {species} {animal.id} for term \"{term}\"... ";
+            //!!
+            // Console.WriteLine();
+            //!!
 
-            // Print icons
-            for (int i = 0; i < animationIcons.Length; i++)
+            // Print numbers
+            for (int i = 0; i < animationNumbers.Length; i++)
             {
-                Console.Write(animationIcons[i]);
-
-                // Print dots
-                for (int j = 0; j < dots; j++)
+                // Print icons
+                for (int j = 0; j < animationIcons.Length; j++)
                 {
-                    Console.Write(".");
+                    // Override the line
+                    Console.Write("\r" + searchInfo + animationIcons[j] + " " + animationNumbers[i]);
                     Thread.Sleep(waitTime);
                 }
 
-                Thread.Sleep(waitTime);
             }
+            Console.Write("\r" + searchInfo + "    ");
         }
     }
 }
