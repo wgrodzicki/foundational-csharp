@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\bin\Debug\net8.0\IP.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\bin\Debug\net8.0\IP.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\bin\Debug\net8.0\IP.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\bin\Debug\net8.0\IP.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\bin\Debug\net8.0\IP.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\refint\IP.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\IP.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\IP\IP\obj\Debug\net8.0\ref\IP.dll

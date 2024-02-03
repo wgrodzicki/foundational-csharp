@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
