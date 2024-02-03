@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\bin\Debug\net8.0\MMO.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\bin\Debug\net8.0\MMO.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\bin\Debug\net8.0\MMO.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\bin\Debug\net8.0\MMO.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\bin\Debug\net8.0\MMO.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\refint\MMO.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\MMO.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MMO\MMO\obj\Debug\net8.0\ref\MMO.dll
