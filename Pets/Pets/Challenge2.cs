@@ -115,7 +115,6 @@ namespace Pets.Challenge2
         /// <param name="animal"></param>
         protected override void PrintAnimalData(Animal animal)
         {
-            Console.WriteLine();
             Console.WriteLine($"ID: {animal.id}");
             Console.WriteLine($"Species: {animal.species}");
             Console.WriteLine($"Age: {animal.age}");
@@ -407,8 +406,10 @@ namespace Pets.Challenge2
             {
                 Console.Write("Enter desired characteristics of the animal (term1, term2, term3, etc.): ");
                 characteristicsInput = Console.ReadLine();
-            } while (String.IsNullOrEmpty(characteristicsInput));
+            } while (String.IsNullOrWhiteSpace(characteristicsInput));
             
+            Console.WriteLine();
+
             string[] characteristicsInputSplit = characteristicsInput.Split(',');
             List<string> characteristicsCurated = new List<string>();
 
@@ -428,6 +429,7 @@ namespace Pets.Challenge2
             
             int animalCounter = 0;
             int termCounter = 0;
+            int searchInfoLength = 0;
 
             List<Animal> matchingAnimals = new List<Animal>();
 
@@ -445,11 +447,13 @@ namespace Pets.Challenge2
 
                 foreach (string term in terms)
                 {
-                    PrintSearchAnimation(animal, species, term);
+                    // Get length of the search info text to be able to override it later
+                    searchInfoLength = PrintSearchAnimation(animal, species, term);
 
                     if (animalCharacteristics.Contains(term))
                     {
-                        Console.Write($"\n{char.ToUpper(species[0])}{species.Substring(1)} {animal.id} is a match for term \"{term}\"");
+                        Console.Write("\r" + new string(' ', searchInfoLength));
+                        Console.Write($"\r{char.ToUpper(species[0])}{species.Substring(1)} {animal.id} is a match for term \"{term}\"\n");
                         termCounter++;
                     }
                 }
@@ -458,26 +462,34 @@ namespace Pets.Challenge2
                 {
                     matchingAnimals.Add(animal);
                     animalCounter++;
-                    Console.WriteLine();
+
+                    // Solution from: https://itecnote.com/tecnote/c-can-console-clear-be-used-to-only-clear-a-line-instead-of-whole-console/
+                    Console.WriteLine("\r" + new string(' ', searchInfoLength));
                     PrintAnimalData(animal);
+                    Console.WriteLine("\r" + new string(' ', searchInfoLength));
                 }
             }
 
             if (animalCounter == 0)
             {
-                Console.WriteLine();
-                Console.WriteLine($"There are no {species}s that match the following characteristics: {characteristicsInput}");
+                Console.Write("\r" + new string(' ', searchInfoLength));
+                Console.WriteLine($"\rThere are no {species}s that match the following characteristics: {characteristicsInput}");
             }
             else
             {
                 if (termCounter == 0)
                 {
-                    Console.WriteLine();
+                    Console.Write("\r" + new string(' ', searchInfoLength));
+                    Console.WriteLine($"\rAnimals that match at least one of the following characteristics: {characteristicsInput}");
                 }
-                Console.WriteLine();
-                Console.WriteLine($"Animals that match at least one of the following characteristics: {characteristicsInput}");
+                else
+                {
+                    Console.WriteLine($"Animals that match at least one of the following characteristics: {characteristicsInput}");
+                }
+                
                 foreach (Animal matchingAnimal in matchingAnimals)
                 {
+                    Console.WriteLine();
                     PrintAnimalData(matchingAnimal);
                 }
             }
@@ -490,16 +502,13 @@ namespace Pets.Challenge2
         /// <param name="animal"></param>
         /// <param name="species"></param>
         /// <param name="term"></param>
-        private void PrintSearchAnimation(Animal animal, string species, string term)
+        private int PrintSearchAnimation(Animal animal, string species, string term)
         {
             string[] animationNumbers = { "3", "2", "1"};
             string[] animationIcons = { " |", " /", "--", " \\" };
             int waitTime = 300;
 
             string searchInfo = $"Searching {species} {animal.id} for term \"{term}\"... ";
-            //!!
-            // Console.WriteLine();
-            //!!
 
             // Print numbers
             for (int i = 0; i < animationNumbers.Length; i++)
@@ -513,7 +522,11 @@ namespace Pets.Challenge2
                 }
 
             }
-            Console.Write("\r" + searchInfo + "    ");
+            
+            // Build a new string to override the info with icons
+            string overrideInfo = searchInfo + new string(' ', animationNumbers[0].Length + animationIcons[0].Length + 1);
+            Console.Write("\r" + overrideInfo);
+            return overrideInfo.Length;
         }
     }
 }

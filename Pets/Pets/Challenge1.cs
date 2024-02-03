@@ -109,9 +109,11 @@ namespace Pets.Challenge1
             if (DisplayNoAnimalsWarning())
                 return;
 
+            Console.WriteLine("Displaying animal data...");
+
             foreach (Animal animal in ourAnimals)
             {
-                Console.WriteLine("Displaying animal data...");
+                Console.WriteLine();
                 PrintAnimalData(animal);
             }
         }
@@ -312,6 +314,7 @@ namespace Pets.Challenge1
                 return;
 
             Console.WriteLine($"Displaying selected {species}s...");
+            Console.WriteLine();
 
             string physicalCondition = GetAnimalOtherCharacteristics("physical condition");
 
@@ -579,6 +582,7 @@ namespace Pets.Challenge1
                     continue;
                 }
 
+                Console.WriteLine();
                 PrintAnimalData(animal);
                 counter++;
             }
