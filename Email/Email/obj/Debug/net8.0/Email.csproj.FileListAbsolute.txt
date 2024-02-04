@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\bin\Debug\net8.0\Email.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\bin\Debug\net8.0\Email.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\bin\Debug\net8.0\Email.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\bin\Debug\net8.0\Email.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\bin\Debug\net8.0\Email.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\refint\Email.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Email\Email\obj\Debug\net8.0\ref\Email.dll
