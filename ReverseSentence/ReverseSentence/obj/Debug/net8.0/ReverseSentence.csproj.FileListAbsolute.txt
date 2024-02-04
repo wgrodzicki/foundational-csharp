@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\bin\Debug\net8.0\ReverseSentence.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\bin\Debug\net8.0\ReverseSentence.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\bin\Debug\net8.0\ReverseSentence.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\bin\Debug\net8.0\ReverseSentence.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\bin\Debug\net8.0\ReverseSentence.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\refint\ReverseSentence.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ReverseSentence.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReverseSentence\ReverseSentence\obj\Debug\net8.0\ref\ReverseSentence.dll

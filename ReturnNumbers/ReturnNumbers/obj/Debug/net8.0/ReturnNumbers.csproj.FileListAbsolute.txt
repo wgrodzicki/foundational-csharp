@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\refint\ReturnNumbers.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnNumbers\ReturnNumbers\obj\Debug\net8.0\ref\ReturnNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\bin\Debug\net8.0\Return.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\bin\Debug\net8.0\Return.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\bin\Debug\net8.0\Return.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\bin\Debug\net8.0\Return.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\bin\Debug\net8.0\Return.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\refint\Return.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\Return.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Return\Return\obj\Debug\net8.0\ref\Return.dll
