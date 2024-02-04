@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\bin\Debug\net8.0\ReturnArrays.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\bin\Debug\net8.0\ReturnArrays.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\bin\Debug\net8.0\ReturnArrays.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\bin\Debug\net8.0\ReturnArrays.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\bin\Debug\net8.0\ReturnArrays.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\refint\ReturnArrays.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ReturnArrays.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ReturnArrays\ReturnArrays\obj\Debug\net8.0\ref\ReturnArrays.dll
