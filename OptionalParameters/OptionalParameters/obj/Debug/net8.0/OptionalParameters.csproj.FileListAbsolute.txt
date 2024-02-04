@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\bin\Debug\net8.0\OptionalParameters.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\bin\Debug\net8.0\OptionalParameters.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\bin\Debug\net8.0\OptionalParameters.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\bin\Debug\net8.0\OptionalParameters.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\bin\Debug\net8.0\OptionalParameters.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\refint\OptionalParameters.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\OptionalParameters.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\OptionalParameters\OptionalParameters\obj\Debug\net8.0\ref\OptionalParameters.dll

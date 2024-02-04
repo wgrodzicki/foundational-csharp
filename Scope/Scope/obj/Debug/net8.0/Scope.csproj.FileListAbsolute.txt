@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\bin\Debug\net8.0\Scope.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\bin\Debug\net8.0\Scope.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\bin\Debug\net8.0\Scope.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\bin\Debug\net8.0\Scope.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\bin\Debug\net8.0\Scope.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\refint\Scope.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\Scope.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\Scope\Scope\obj\Debug\net8.0\ref\Scope.dll

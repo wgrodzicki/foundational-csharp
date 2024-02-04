@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\bin\Debug\net8.0\ValueReference.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\bin\Debug\net8.0\ValueReference.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\bin\Debug\net8.0\ValueReference.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\bin\Debug\net8.0\ValueReference.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\bin\Debug\net8.0\ValueReference.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\refint\ValueReference.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ValueReference.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ValueReference\ValueReference\obj\Debug\net8.0\ref\ValueReference.dll
