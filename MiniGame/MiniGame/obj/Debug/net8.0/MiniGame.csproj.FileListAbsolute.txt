@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\bin\Debug\net8.0\MiniGame.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\bin\Debug\net8.0\MiniGame.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\bin\Debug\net8.0\MiniGame.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\bin\Debug\net8.0\MiniGame.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\bin\Debug\net8.0\MiniGame.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\refint\MiniGame.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\MiniGame\MiniGame\obj\Debug\net8.0\ref\MiniGame.dll
