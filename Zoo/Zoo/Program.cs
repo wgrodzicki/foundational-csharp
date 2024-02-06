@@ -62,7 +62,7 @@ int GetSchoolCount()
 
 
 /// <summary>
-/// Register school from the user input
+/// Registers school from the user input
 /// </summary>
 /// <returns></returns>
 School GetSchool()
@@ -156,7 +156,7 @@ string[] RandomizeAnimals(string[] animals)
 
 
 /// <summary>
-/// Simulates school groups visiting animals: each group visits all animals once and all animals visited at the same time must be different for each group
+/// Simulates school groups visiting animals: each group visits all animals (once) and all animals visited at the same time must be different for each group
 /// </summary>
 /// <param name="school"></param>
 /// <param name="randomizedAnimals"></param>
@@ -194,13 +194,13 @@ void VisitAllAnimalsByEachGroup(School school, string[] randomizedAnimals)
                     continue;
                 }
 
-                // Animals not visited by all groups
+                // Animals not visited by all groups yet
                 if (animalVisits[j].totalVisits >= school.groups.Length)
                 {
                     continue;
                 }
 
-                // Animals not visited by this particular group
+                // Animals not visited by this particular group yet
                 if (school.groups[i].visitedAnimals.Contains(animalVisits[j].animal))
                 {
                     continue;
@@ -209,7 +209,7 @@ void VisitAllAnimalsByEachGroup(School school, string[] randomizedAnimals)
                 animalVisits[j].isBeingVisited = true;
                 animalVisits[j].totalVisits++;
 
-                // Increase counter if this is the last possible visit
+                // Increase counter if this is the last visit allowed
                 if (animalVisits[j].totalVisits == school.groups.Length)
                 {
                     animalsVisitedByAllGroups++;
@@ -233,7 +233,6 @@ void VisitAllAnimalsByEachGroup(School school, string[] randomizedAnimals)
 void VisitAnimals(School school, string[] randomizedAnimals)
 {
     int animalsPerGroup = randomizedAnimals.Length / school.groups.Length;
-    int remainingAnimals = randomizedAnimals.Length % school.groups.Length;
     int animalCounter = 0;
 
     for (int i = 0; i < school.groups.Length - 1; i++)
@@ -257,6 +256,7 @@ void VisitAnimals(School school, string[] randomizedAnimals)
         animalCounter++;
     }
     Console.WriteLine();
+    Console.WriteLine();
 }
 
 
@@ -271,7 +271,7 @@ void PrintSchool(School school)
 
 
 /// <summary>
-/// Gets visit mode
+/// Gets visiting mode
 /// </summary>
 /// <returns></returns>
 bool GetVisitMode()
