@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\bin\Debug\net8.0\ExceptionChallenge.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\bin\Debug\net8.0\ExceptionChallenge.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\bin\Debug\net8.0\ExceptionChallenge.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\bin\Debug\net8.0\ExceptionChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\bin\Debug\net8.0\ExceptionChallenge.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\refint\ExceptionChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ExceptionChallenge.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\ExceptionChallenge\ExceptionChallenge\obj\Debug\net8.0\ref\ExceptionChallenge.dll
