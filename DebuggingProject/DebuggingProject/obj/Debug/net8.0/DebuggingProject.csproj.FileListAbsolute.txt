@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\bin\Debug\net8.0\DebuggingProject.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\bin\Debug\net8.0\DebuggingProject.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\bin\Debug\net8.0\DebuggingProject.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\bin\Debug\net8.0\DebuggingProject.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\bin\Debug\net8.0\DebuggingProject.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\refint\DebuggingProject.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\DebuggingProject.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingProject\DebuggingProject\obj\Debug\net8.0\ref\DebuggingProject.dll

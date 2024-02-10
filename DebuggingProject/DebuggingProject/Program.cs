@@ -18,7 +18,7 @@ expected.
 */
 
 string? readResult = null;
-bool useTestData = true;
+bool useTestData = false;
 
 Console.Clear();
 
@@ -46,7 +46,8 @@ Console.WriteLine($"Expected till value: {registerCheckTillTotal}\n\r");
 
 var valueGenerator = new Random((int)DateTime.Now.Ticks);
 
-int transactions = 10;
+// int transactions = 10;
+int transactions = 40;
 
 if (useTestData)
 {
@@ -56,7 +57,8 @@ if (useTestData)
 while (transactions > 0)
 {
     transactions -= 1;
-    int itemCost = valueGenerator.Next(2, 20);
+    // int itemCost = valueGenerator.Next(2, 20);
+    int itemCost = valueGenerator.Next(2, 50);
 
     if (useTestData)
     {
@@ -76,18 +78,19 @@ while (transactions > 0)
     Console.WriteLine($"\t Using {paymentFives} five dollar bills");
     Console.WriteLine($"\t Using {paymentOnes} one dollar bills");
 
-    // MakeChange manages the transaction and updates the till 
-    string transactionMessage = MakeChange(itemCost, cashTill, paymentTwenties, paymentTens, paymentFives, paymentOnes);
-
-    // Backup Calculation - each transaction adds current "itemCost" to the till
-    if (transactionMessage == "transaction succeeded")
+    try
     {
+        // MakeChange manages the transaction and updates the till 
+        MakeChange(itemCost, cashTill, paymentTwenties, paymentTens, paymentFives, paymentOnes);
         Console.WriteLine($"Transaction successfully completed.");
+
+        // Backup Calculation - each transaction adds current "itemCost" to the till
         registerCheckTillTotal += itemCost;
     }
-    else
+    catch (InvalidOperationException ex)
     {
-        Console.WriteLine($"Transaction unsuccessful: {transactionMessage}");
+        Console.WriteLine($"Transaction unsuccessful.");
+        Console.WriteLine(ex.Message);
     }
 
     Console.WriteLine(TillAmountSummary(cashTill));
@@ -112,10 +115,8 @@ static void LoadTillEachMorning(int[,] registerDailyStartingCash, int[] cashTill
 }
 
 
-static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, int fives = 0, int ones = 0)
+static void MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, int fives = 0, int ones = 0)
 {
-    string transactionMessage = "";
-
     cashTill[3] += twenties;
     cashTill[2] += tens;
     cashTill[1] += fives;
@@ -125,7 +126,7 @@ static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, i
     int changeNeeded = amountPaid - cost;
 
     if (changeNeeded < 0)
-        transactionMessage = "Not enough money provided.";
+        throw new InvalidOperationException("InvalidOperationException: Not enough money provided.");
 
     Console.WriteLine("Cashier Returns:");
 
@@ -145,7 +146,7 @@ static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, i
 
     while ((changeNeeded > 4) && (cashTill[1] > 0))
     {
-        cashTill[2]--;
+        cashTill[1]--;
         changeNeeded -= 5;
         Console.WriteLine("\t A five");
     }
@@ -158,12 +159,7 @@ static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, i
     }
 
     if (changeNeeded > 0)
-        transactionMessage = "Can't make change. Do you have anything smaller?";
-
-    if (transactionMessage == "")
-        transactionMessage = "transaction succeeded";
-
-    return transactionMessage;
+        throw new InvalidOperationException("InvalidOperationException: The till is unable to make the correct change.");
 }
 
 static void LogTillStatus(int[] cashTill)
