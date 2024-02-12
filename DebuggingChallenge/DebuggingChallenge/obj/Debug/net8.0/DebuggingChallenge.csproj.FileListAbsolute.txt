@@ -1,0 +1,15 @@
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\bin\Debug\net8.0\DebuggingChallenge.exe
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\bin\Debug\net8.0\DebuggingChallenge.deps.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\bin\Debug\net8.0\DebuggingChallenge.runtimeconfig.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\bin\Debug\net8.0\DebuggingChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\bin\Debug\net8.0\DebuggingChallenge.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.AssemblyInfoInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.AssemblyInfo.cs
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.sourcelink.json
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\refint\DebuggingChallenge.dll
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.pdb
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\DebuggingChallenge.genruntimeconfig.cache
+C:\Users\Rosynant\Documents\Coding\MicrosoftFreeCodeCamp\DebuggingChallenge\DebuggingChallenge\obj\Debug\net8.0\ref\DebuggingChallenge.dll
